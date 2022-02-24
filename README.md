@@ -1,2 +1,2 @@
 # Machine-learning-exampls
-some basic example of machin learning with famous librarys in python
+Some basic example of machine learning with famous librarys in python
